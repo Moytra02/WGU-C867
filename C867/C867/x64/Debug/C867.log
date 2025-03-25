@@ -1,0 +1,14 @@
+﻿  main.cpp
+  roster.cpp
+C:\Users\basov\OneDrive\Desktop\School\C867\C867\C867\roster.cpp(36,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\basov\OneDrive\Desktop\School\C867\C867\C867\roster.cpp(41,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\basov\OneDrive\Desktop\School\C867\C867\C867\roster.cpp(46,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\basov\OneDrive\Desktop\School\C867\C867\C867\roster.cpp(51,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\basov\OneDrive\Desktop\School\C867\C867\C867\roster.cpp(56,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\basov\OneDrive\Desktop\School\C867\C867\C867\roster.cpp(61,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\basov\OneDrive\Desktop\School\C867\C867\C867\roster.cpp(65,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\basov\OneDrive\Desktop\School\C867\C867\C867\roster.cpp(69,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\basov\OneDrive\Desktop\School\C867\C867\C867\roster.cpp(74,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  student.cpp
+  Generating Code...
+  C867.vcxproj -> C:\Users\basov\OneDrive\Desktop\School\C867\C867\x64\Debug\C867.exe
